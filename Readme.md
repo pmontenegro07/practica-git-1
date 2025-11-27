@@ -14,3 +14,6 @@ Este es mi primer repositorio creado desde cero con Git.
 3. Crear commits.
 4. Trabajar con ramas.
 5. Publicar en GitHub.
+
+## Cambios luego de ser publicado en Github
+ 1. Agregar una fila.
