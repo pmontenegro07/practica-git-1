@@ -23,3 +23,5 @@ Este es mi primer repositorio creado desde cero con Git.
 
 Estos cambios se realizaron desde una copia clonada del proyecto.
 Estoy practicando cómo sincronizar cambios desde un clon hacia GitHub.
+
+ Mejora desde rama mejoras-desde-clon
