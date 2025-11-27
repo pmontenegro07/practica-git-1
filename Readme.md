@@ -17,3 +17,9 @@ Este es mi primer repositorio creado desde cero con Git.
 
 ## Cambios luego de ser publicado en Github
  1. Agregar una fila.
+
+
+## Actualización desde repositorio clonado
+
+Estos cambios se realizaron desde una copia clonada del proyecto.
+Estoy practicando cómo sincronizar cambios desde un clon hacia GitHub.
