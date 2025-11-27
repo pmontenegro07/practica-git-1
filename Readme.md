@@ -1,7 +1,16 @@
 # Práctica 1 - Git y GitHub
 
 Este es mi primer repositorio creado desde cero con Git.
+
 ## Instrucciones de uso
 
 - Este proyecto es una práctica de Git.
 - Aquí aprenderás a manejar repositorios locales y remotos.
+
+## Instrucciones de la práctica
+
+1. Clonar o crear un repositorio.
+2. Hacer cambios.
+3. Crear commits.
+4. Trabajar con ramas.
+5. Publicar en GitHub.
